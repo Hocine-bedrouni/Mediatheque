@@ -13,7 +13,9 @@ dans la page `product-page.component.ts`.
 
 
 ## Recupération des données et affichages
-recupération des données du parent dans un tableau et affichage de la liste d'élément dans la page `product-list.component.ts`.
+recupération des données du parent dans un tableau 
+par l'annotation @Input dans `product-list.component.ts`
+et affichage de la liste d'élément dans la page `product-list.component.html`.
 
 ## Manque la page détails
 projet non finaliser...
